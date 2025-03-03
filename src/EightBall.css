@@ -1,0 +1,50 @@
+
+
+.green {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    box-shadow: 0 2px 10px black;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+  }
+  
+.goldenrod {
+    background-color: goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    box-shadow: 0 2px 10px black;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+  }
+  
+.red {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    box-shadow: 0 2px 10px black;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+  }
+  
+.black {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    box-shadow: 0 2px 10px black;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+  }
+  
